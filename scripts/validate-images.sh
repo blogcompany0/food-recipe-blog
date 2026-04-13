@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # validate-images.sh — 블로그 포스트 이미지 최소 개수 검증
 # 사용: ./scripts/validate-images.sh [content_dir] [min_images]
-# 기본값: content/posts 3
+# 기본값: content/post 3
 
 set -euo pipefail
 
-CONTENT_DIR="${1:-content/posts}"
+CONTENT_DIR="${1:-content/post}"
 MIN_IMAGES="${2:-3}"
 FAILED=0
 CHECKED=0
@@ -20,13 +20,14 @@ echo "=== 이미지 검증 시작 ==="
 echo "대상: $CONTENT_DIR | 최소 이미지: ${MIN_IMAGES}개"
 echo ""
 
-for file in "$CONTENT_DIR"/*.md; do
+for file in "$CONTENT_DIR"/*/index.md "$CONTENT_DIR"/*.md; do
   [ -f "$file" ] || continue
 
-  filename=$(basename "$file")
+  filename=$(basename "$(dirname "$file")")
+  [ "$filename" = "$(basename "$CONTENT_DIR")" ] && filename=$(basename "$file")
 
   # _index.md 는 건너뛰기
-  if [ "$filename" = "_index.md" ]; then
+  if [ "$(basename "$file")" = "_index.md" ]; then
     SKIPPED=$((SKIPPED + 1))
     continue
   fi
