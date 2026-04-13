@@ -13,7 +13,7 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Maillard Reaction and Roasting"
-    url: "https://www.seriouseats.com/what-is-maillard-reaction-cooking-science"
+    url: "https://www.jessicagavin.com/maillard-reaction/"
     source: "Serious Eats"
   - title: "Safe Minimum Cooking Temperatures"
     url: "https://www.foodsafety.gov/food-safety-charts/safe-minimum-cooking-temperature"
@@ -35,7 +35,7 @@ The concept is dead simple: protein and vegetables on one pan, seasoned well, ro
 
 **Rule 2: Cut everything to the same size.** A thick chunk of sweet potato and a thin slice of zucchini don't cook at the same rate. Cut your vegetables into similar-sized pieces so everything finishes together. For items that cook at different speeds, stagger them — more on that below.
 
-**Rule 3: High heat is your friend.** I roast almost everything at 425°F (220°C). High heat triggers the [Maillard reaction](https://www.seriouseats.com/what-is-maillard-reaction-cooking-science) — that's the browning that creates deep, complex flavors. Low and slow has its place, but not here. You want crispy edges and caramelized surfaces.
+**Rule 3: High heat is your friend.** I roast almost everything at 425°F (220°C). High heat triggers the [Maillard reaction](https://www.jessicagavin.com/maillard-reaction/) — that's the browning that creates deep, complex flavors. Low and slow has its place, but not here. You want crispy edges and caramelized surfaces.
 
 **Rule 4: Oil generously, season boldly.** A light drizzle of oil won't cut it. Toss your vegetables in enough oil to coat every surface — about 2 tablespoons per pan. And season more aggressively than you think. Roasting mellows flavors, so what tastes well-seasoned raw will taste perfectly balanced after cooking.
 

@@ -16,13 +16,13 @@ references:
     url: "https://www.usda.gov/media/blog/2011/12/14/slow-cookers-and-food-safety"
     source: "USDA"
   - title: "The Science of Chili Peppers"
-    url: "https://www.seriouseats.com/the-best-chili-recipe"
+    url: "https://www.seriouseats.com/real-texas-chili-con-carne"
     source: "Serious Eats"
   - title: "Beans and Legumes Nutrition"
     url: "https://www.hsph.harvard.edu/nutritionsource/legumes-pulses/"
     source: "Harvard T.H. Chan School of Public Health"
   - title: "Spice Storage and Freshness"
-    url: "https://www.mccormick.com/spice-education"
+    url: "https://www.mccormick.com/spices-and-flavors"
     source: "McCormick"
 ---
 
@@ -38,7 +38,7 @@ You can absolutely make great chili on the stovetop. But the slow cooker has thr
 
 **Hands-off cooking.** You spend 15 minutes in the morning loading the pot, then walk away for 8 hours. No stirring, no monitoring, no adjusting heat. The slow cooker does the work while you do literally anything else.
 
-**Better flavor development.** The low, steady heat of a slow cooker gives spices time to bloom and meld in a way that a 45-minute stovetop simmer can't replicate. [Serious Eats' chili deep-dive](https://www.seriouseats.com/the-best-chili-recipe) explains how extended cooking breaks down connective tissue in meat and allows capsaicin from chili peppers to distribute evenly throughout the dish.
+**Better flavor development.** The low, steady heat of a slow cooker gives spices time to bloom and meld in a way that a 45-minute stovetop simmer can't replicate. [Serious Eats' chili deep-dive](https://www.seriouseats.com/real-texas-chili-con-carne) explains how extended cooking breaks down connective tissue in meat and allows capsaicin from chili peppers to distribute evenly throughout the dish.
 
 **It gets better with time.** Chili is one of those rare dishes that improves overnight. The flavors continue to develop in the fridge, which means Monday's leftovers taste even better than Sunday's fresh pot.
 
@@ -88,7 +88,7 @@ My preferred blend for a batch of chili:
 - 1 teaspoon smoked paprika
 - 1/2 teaspoon cayenne
 
-[McCormick's spice education page](https://www.mccormick.com/spice-education) notes that ground spices lose potency after about six months. If your chili tastes flat despite using the right amounts, your spices might just be old. I do a spice cabinet purge twice a year and it makes a noticeable difference.
+[McCormick's spice guide](https://www.mccormick.com/spices-and-flavors) notes that ground spices lose potency after about six months. If your chili tastes flat despite using the right amounts, your spices might just be old. I do a spice cabinet purge twice a year and it makes a noticeable difference.
 
 One more trick: add a tablespoon of cocoa powder (unsweetened) and a teaspoon of brown sugar. The cocoa adds depth without any chocolate flavor, and the sugar balances the acidity of the tomatoes. It sounds weird. It works.
 

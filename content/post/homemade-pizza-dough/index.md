@@ -13,10 +13,10 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Pizza Dough"
-    url: "https://www.seriouseats.com/the-pizza-lab-how-to-make-great-new-york-style-pizza"
+    url: "https://www.seriouseats.com/new-york-style-pizza"
     source: "Serious Eats"
   - title: "Understanding Yeast in Baking"
-    url: "https://www.kingarthurbaking.com/blog/2020/04/01/yeast-for-baking"
+    url: "https://www.kingarthurbaking.com/learn/guides/yeast-baking"
     source: "King Arthur Baking"
   - title: "Flour Protein Content and Pizza"
     url: "https://www.pizzamaking.com/flour-information.html"
@@ -34,7 +34,7 @@ The turning point was understanding that great pizza dough isn't about technique
 
 Store-bought pizza dough — the kind in tubes or plastic bags at the grocery store — is designed for shelf stability, not flavor. It's made with dough conditioners, preservatives, and usually too much sugar. It works in a pinch, but it tastes like what it is: a compromise.
 
-Homemade dough has exactly five ingredients: flour, water, salt, yeast, and olive oil. That's it. The flavor comes from fermentation — the slow process of yeast eating sugars and producing carbon dioxide (for bubbles) and organic acids (for flavor). [Serious Eats' pizza lab](https://www.seriouseats.com/the-pizza-lab-how-to-make-great-new-york-style-pizza) goes deep on the science, but the short version is: more time = more flavor.
+Homemade dough has exactly five ingredients: flour, water, salt, yeast, and olive oil. That's it. The flavor comes from fermentation — the slow process of yeast eating sugars and producing carbon dioxide (for bubbles) and organic acids (for flavor). [Serious Eats' pizza lab](https://www.seriouseats.com/new-york-style-pizza) goes deep on the science, but the short version is: more time = more flavor.
 
 ## The Recipe
 
@@ -49,7 +49,7 @@ This makes enough dough for three 12-inch pizzas. I usually make the full batch 
 
 A note on flour: [bread flour has higher protein content](https://www.pizzamaking.com/flour-information.html) than all-purpose (12-14% vs 10-12%), which means more gluten development, which means a chewier, more structured crust. If you only have all-purpose, it'll still make good pizza — just slightly more tender and less chewy.
 
-And on yeast: I use instant yeast because you can mix it directly into the flour without activating it in water first. [King Arthur Baking's yeast guide](https://www.kingarthurbaking.com/blog/2020/04/01/yeast-for-baking) explains the differences between yeast types, but for this recipe, instant or active dry both work. If using active dry, dissolve it in the water first and wait 5 minutes until it foams.
+And on yeast: I use instant yeast because you can mix it directly into the flour without activating it in water first. [King Arthur Baking's yeast guide](https://www.kingarthurbaking.com/learn/guides/yeast-baking) explains the differences between yeast types, but for this recipe, instant or active dry both work. If using active dry, dissolve it in the water first and wait 5 minutes until it foams.
 
 ### Step 1: Mix (5 minutes)
 

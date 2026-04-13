@@ -19,10 +19,10 @@ references:
     url: "https://www.healthline.com/nutrition/9-benefits-oats-oatmeal"
     source: "Healthline"
   - title: "Chia Seeds Nutrition Facts"
-    url: "https://fdc.nal.usda.gov/fdc-app.html#/food-details/170554/nutrients"
+    url: "https://fdc.nal.usda.gov/food-search?query=chia+seeds"
     source: "USDA FoodData Central"
   - title: "Food Safety: Refrigerated Foods"
-    url: "https://www.fda.gov/food/people-risk-foodborne-illness/refrigerator-food-storage"
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
     source: "FDA"
 ---
 
@@ -49,7 +49,7 @@ A few things I've learned through trial and error:
 
 **The liquid ratio matters.** Too little liquid and you get a dense, pasty mass. Too much and it's soupy. The 1:1 ratio of oats to liquid is the sweet spot for a creamy, spoonable consistency. If you like it thinner, add a splash more milk in the morning.
 
-**Chia seeds are a game-changer.** They absorb about 10 times their weight in liquid, which thickens the oats into something closer to pudding than porridge. [USDA data](https://fdc.nal.usda.gov/fdc-app.html#/food-details/170554/nutrients) shows they're also packed with fiber, protein, and omega-3 fatty acids. One tablespoon transforms the texture completely.
+**Chia seeds are a game-changer.** They absorb about 10 times their weight in liquid, which thickens the oats into something closer to pudding than porridge. [USDA data](https://fdc.nal.usda.gov/food-search?query=chia+seeds) shows they're also packed with fiber, protein, and omega-3 fatty acids. One tablespoon transforms the texture completely.
 
 **Greek yogurt adds protein and tang.** I replace half the liquid with Greek yogurt in most of my recipes. It bumps the protein up significantly and gives the oats a pleasant tanginess that balances sweet toppings.
 
@@ -179,7 +179,7 @@ Friday: Tropical Coconut Mango
 
 The whole process takes about 20 minutes. I add fresh toppings (banana slices, granola, toasted coconut) each morning — they take 30 seconds and keep things from getting soggy.
 
-The [FDA recommends](https://www.fda.gov/food/people-risk-foodborne-illness/refrigerator-food-storage) consuming refrigerated prepared foods within 3-4 days. I've found that overnight oats taste best within the first 3 days — after that, the texture gets a bit too soft. So I make Monday through Wednesday on Sunday night, and Thursday through Friday on Wednesday night.
+The [FDA recommends](https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling) consuming refrigerated prepared foods within 3-4 days. I've found that overnight oats taste best within the first 3 days — after that, the texture gets a bit too soft. So I make Monday through Wednesday on Sunday night, and Thursday through Friday on Wednesday night.
 
 ## Tips for the Best Overnight Oats
 

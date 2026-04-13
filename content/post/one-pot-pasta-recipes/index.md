@@ -13,7 +13,7 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Cooking Pasta"
-    url: "https://www.seriouseats.com/the-right-way-to-sauce-pasta"
+    url: "https://www.bonappetit.com/story/how-to-sauce-pasta"
     source: "Serious Eats"
   - title: "One-Pot Cooking Techniques"
     url: "https://www.bonappetit.com/story/one-pot-pasta-tips"
@@ -30,7 +30,7 @@ I have a confession: I used to boil pasta in one pot, make sauce in another, sau
 
 Then I discovered one-pot pasta — the method where everything goes into a single pot and cooks together. The pasta absorbs the flavors of the sauce as it cooks, the starch thickens everything into a silky, clingy coating, and you're left with one pot to wash. One. It changed my weeknight cooking completely.
 
-The trick, as [Serious Eats explains](https://www.seriouseats.com/the-right-way-to-sauce-pasta), is that pasta starch is actually your friend. When noodles cook directly in the sauce, they release starch that naturally emulsifies and thickens everything. You end up with a creamier, more cohesive dish than you'd get from boiling and draining separately.
+The trick, as [Bon Appétit explains](https://www.bonappetit.com/story/how-to-sauce-pasta), is that pasta starch is actually your friend. When noodles cook directly in the sauce, they release starch that naturally emulsifies and thickens everything. You end up with a creamier, more cohesive dish than you'd get from boiling and draining separately.
 
 Here are eight one-pot pastas that have earned permanent spots in my dinner rotation.
 

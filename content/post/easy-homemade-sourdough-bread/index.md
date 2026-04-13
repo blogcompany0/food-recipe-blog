@@ -13,7 +13,7 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Sourdough Starters"
-    url: "https://www.kingarthurbaking.com/blog/2020/04/07/the-science-behind-sourdough-starters"
+    url: "https://www.kingarthurbaking.com/learn/guides/sourdough"
     source: "King Arthur Baking"
   - title: "Flour Types and Protein Content"
     url: "https://www.seriouseats.com/flour-types-guide"
@@ -51,7 +51,7 @@ A few things that tripped me up early on:
 
 **Temperature matters more than timing.** In a warm kitchen (75-80°F), your starter will be active and bubbly within 4-6 hours of feeding. In a cold kitchen, it might take 10-12 hours. Neither is wrong — you're just working on different schedules.
 
-**Whole wheat flour jumpstarts things.** [King Arthur Baking explains](https://www.kingarthurbaking.com/blog/2020/04/07/the-science-behind-sourdough-starters) that whole wheat flour contains more wild yeast and bacteria than white flour, which is why I recommend starting with it. Once your starter is established, you can switch to all-purpose for maintenance.
+**Whole wheat flour jumpstarts things.** [King Arthur Baking explains](https://www.kingarthurbaking.com/learn/guides/sourdough) that whole wheat flour contains more wild yeast and bacteria than white flour, which is why I recommend starting with it. Once your starter is established, you can switch to all-purpose for maintenance.
 
 **Don't panic if it smells weird.** Around day 2-3, your starter might smell like nail polish remover or old cheese. That's normal — bad bacteria are competing with the good stuff. Keep feeding it. The beneficial lactobacillus will win out by day 5 or so.
 

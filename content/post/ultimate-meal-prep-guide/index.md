@@ -13,7 +13,7 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1544025162-d76694265947?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Food Safety: Refrigeration and Food Safety"
-    url: "https://www.fda.gov/food/people-risk-foodborne-illness/refrigerator-food-storage"
+    url: "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
     source: "FDA"
   - title: "MyPlate: What Is MyPlate?"
     url: "https://www.myplate.gov/eat-healthy/what-is-myplate"
@@ -110,7 +110,7 @@ Here's where the magic happens. The key is running multiple things simultaneousl
 
 ## Storage Tips That Actually Matter
 
-The [FDA recommends](https://www.fda.gov/food/people-risk-foodborne-illness/refrigerator-food-storage) consuming refrigerated leftovers within 3-4 days. For a five-day prep, that means you'll want to freeze Thursday and Friday's portions and move them to the fridge Wednesday night.
+The [FDA recommends](https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling) consuming refrigerated leftovers within 3-4 days. For a five-day prep, that means you'll want to freeze Thursday and Friday's portions and move them to the fridge Wednesday night.
 
 A few things I've learned through trial and error:
 

@@ -13,10 +13,10 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "How Air Fryers Work"
-    url: "https://www.seriouseats.com/how-air-fryers-work"
-    source: "Serious Eats"
+    url: "https://www.healthline.com/nutrition/air-fryer"
+    source: "Healthline"
   - title: "Air Frying vs Deep Frying: Nutrition Comparison"
-    url: "https://www.healthline.com/nutrition/air-fryer-vs-deep-fryer"
+    url: "https://www.healthline.com/nutrition/air-fryer"
     source: "Healthline"
   - title: "Food Safety Tips for Air Fryers"
     url: "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling"
@@ -27,7 +27,7 @@ My air fryer sat in its box for three weeks after I bought it. I'd heard the hyp
 
 Then one Tuesday night, too tired to preheat the oven, I tossed some frozen chicken tenders in the air fryer on a whim. Twelve minutes later, they came out crispier than anything my oven had ever produced. That was the moment I became a convert.
 
-An air fryer is essentially a compact convection oven. [As Serious Eats explains](https://www.seriouseats.com/how-air-fryers-work), it circulates superheated air around food at high speed, creating that crispy, fried texture with a fraction of the oil. It's not magic — it's just really efficient heat transfer. But the results genuinely surprised me.
+An air fryer is essentially a compact convection oven. [As Healthline explains](https://www.healthline.com/nutrition/air-fryer), it circulates superheated air around food at high speed, creating that crispy, fried texture with a fraction of the oil. It's not magic — it's just really efficient heat transfer. But the results genuinely surprised me.
 
 Whether you're a complete air fryer beginner or just looking for new air fryer recipes to try, here are 12 dishes that taught me what this thing can actually do.
 
@@ -123,7 +123,7 @@ While still warm, brush with melted butter and roll in cinnamon sugar. They tast
 
 ## A Note on Health Claims
 
-You'll see a lot of marketing about air fryers being "healthy." [Healthline's comparison](https://www.healthline.com/nutrition/air-fryer-vs-deep-fryer) notes that air frying does use significantly less oil than deep frying, which means fewer calories from fat. But an air-fried donut is still a donut. The real benefit isn't that it makes unhealthy food healthy — it's that it makes cooking at home easier and faster, which naturally leads to better eating habits than ordering takeout.
+You'll see a lot of marketing about air fryers being "healthy." [Healthline's comparison](https://www.healthline.com/nutrition/air-fryer) notes that air frying does use significantly less oil than deep frying, which means fewer calories from fat. But an air-fried donut is still a donut. The real benefit isn't that it makes unhealthy food healthy — it's that it makes cooking at home easier and faster, which naturally leads to better eating habits than ordering takeout.
 
 ## Getting the Most Out of Your Air Fryer
 

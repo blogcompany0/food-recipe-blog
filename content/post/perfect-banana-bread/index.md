@@ -13,11 +13,11 @@ featuredImage:
 image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Baking: Leavening Agents"
-    url: "https://www.kingarthurbaking.com/blog/2016/10/03/leavening-agents"
+    url: "https://www.kingarthurbaking.com/learn/guides"
     source: "King Arthur Baking"
   - title: "Understanding Gluten Development"
-    url: "https://www.seriouseats.com/how-to-make-the-best-banana-bread"
-    source: "Serious Eats"
+    url: "https://www.kingarthurbaking.com/learn/guides"
+    source: "King Arthur Baking"
   - title: "Banana Nutrition and Ripeness"
     url: "https://www.healthline.com/nutrition/bananas-nutrition"
     source: "Healthline"
@@ -63,7 +63,7 @@ A few notes on these choices before we get to the method.
 
 **An extra egg yolk.** The whole egg provides structure. The extra yolk adds richness and fat without making the bread eggy. It's the difference between good banana bread and "how is this so moist" banana bread.
 
-**Baking soda, not baking powder.** [King Arthur Baking explains](https://www.kingarthurbaking.com/blog/2016/10/03/leavening-agents) that baking soda reacts with the acid in the bananas, creating lift while also promoting browning. Baking powder would work, but you'd need more of it and you'd miss out on that deep golden crust.
+**Baking soda, not baking powder.** [King Arthur Baking explains](https://www.kingarthurbaking.com/learn/guides) that baking soda reacts with the acid in the bananas, creating lift while also promoting browning. Baking powder would work, but you'd need more of it and you'd miss out on that deep golden crust.
 
 ## The Method
 
@@ -83,7 +83,7 @@ Add the brown sugar and stir until combined. Add the egg, egg yolk, and vanilla.
 
 Sprinkle the baking soda and salt over the wet mixture and stir briefly. Add the flour and fold it in with a spatula or wooden spoon. Here's the critical part: **stop mixing as soon as you don't see dry flour anymore.** 
 
-[Serious Eats notes](https://www.seriouseats.com/how-to-make-the-best-banana-bread) that overmixing develops gluten, which makes the bread tough and dense instead of tender. A few small lumps in the batter are fine — they'll disappear during baking. If you're adding walnuts or chocolate chips, fold them in now with just a couple of strokes.
+[King Arthur Baking notes](https://www.kingarthurbaking.com/learn/guides) that overmixing develops gluten, which makes the bread tough and dense instead of tender. A few small lumps in the batter are fine — they'll disappear during baking. If you're adding walnuts or chocolate chips, fold them in now with just a couple of strokes.
 
 ### Step 4: Bake
 
