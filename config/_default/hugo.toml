@@ -1,0 +1,34 @@
+baseURL = "https://blogcompany0.github.io/food-recipe-blog/"
+languageCode = "en-us"
+title = "Flavor & Fork"
+defaultContentLanguage = "en"
+theme = "stack"
+hasCJKLanguage = false
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  post = "/p/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "Sitemap"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
