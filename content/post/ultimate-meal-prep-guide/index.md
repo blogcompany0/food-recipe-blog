@@ -142,9 +142,9 @@ Some weeks, I don't prep. Life happens — maybe I'm traveling, or Sunday got aw
 
 On those weeks, I fall back on what I call "semi-prep": I'll cook a big batch of grain and one protein on Monday night, then wing the rest with whatever vegetables I have. It's not as organized, but it still beats buying lunch every day.
 
-The point isn't perfection. It's having a system that makes your default weekday lunch something homemade, reasonably healthy, and actually tasty — instead of whatever's closest and fastest.
+The point isn't perfection. It's having a weekly meal prep system that makes your default weekday lunch something homemade, reasonably healthy, and actually tasty — instead of whatever's closest and fastest.
 
-If you're looking for quick protein options to add to your prep rotation, our [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/) are a great starting point. And for mornings, check out our [high-protein breakfast ideas](/p/high-protein-breakfast-ideas/) to round out your daily nutrition.
+If you're looking for quick protein options to add to your prep rotation, our [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/) are a great starting point. For mornings, check out our [high-protein breakfast ideas](/p/high-protein-breakfast-ideas/) to round out your daily nutrition. And when you want a no-fuss dinner to complement your prepped lunches, our [one-pot pasta recipes](/p/one-pot-pasta-recipes/) deliver with minimal cleanup.
 
 ![Overhead view of a colorful assembled grain bowl with various toppings](https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=900&auto=format&fit=crop&q=80)
 *The beauty of component-based prep: every day's bowl looks and tastes different. Image credit: [Unsplash](https://unsplash.com)*

@@ -196,9 +196,9 @@ After making dozens of these, here's what I've learned:
 
 **Don't skip the finishing fat.** A drizzle of good olive oil, a knob of butter, or a handful of cheese at the end makes a huge difference. It adds richness and helps the sauce cling to the pasta.
 
-One-pot pasta isn't just a shortcut — it's genuinely a better way to cook certain dishes. The pasta absorbs more flavor, the sauce has better body, and you spend your evening eating instead of scrubbing pots.
+One-pot pasta isn't just a shortcut — it's genuinely a better way to cook certain dishes. The pasta absorbs more flavor, the sauce has better body, and you spend your evening eating instead of scrubbing pots. If you're looking for more easy pasta recipes and weeknight ideas, these one-pot methods are the perfect starting point.
 
-For a protein-packed side to go with any of these, try our [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/). And if you want to batch-cook pasta components for the week, our [meal prep guide](/p/ultimate-meal-prep-guide/) has you covered.
+For a protein-packed side to go with any of these, try our [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/). And if you want to batch-cook pasta components for the week, our [meal prep guide](/p/ultimate-meal-prep-guide/) has you covered. Pair any of these pastas with a slice of [homemade sourdough bread](/p/easy-homemade-sourdough-bread/) for the ultimate comfort meal.
 
 ![Overhead view of a served one-pot pasta dish with fresh herbs and parmesan](https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900&auto=format&fit=crop&q=80)
 *One pot, one dinner, one dish to wash. That's the whole pitch. Image credit: [Unsplash](https://unsplash.com)*

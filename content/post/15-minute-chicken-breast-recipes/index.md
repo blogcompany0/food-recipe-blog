@@ -4,7 +4,7 @@ date: 2026-04-01
 slug: "15-minute-chicken-breast-recipes"
 draft: false
 categories: ["Quick Meals", "Chicken"]
-tags: ["chicken breast recipes", "quick dinner", "15 minute meals", "weeknight dinner", "easy chicken"]
+tags: ["chicken breast recipes", "quick dinner", "15 minute meals", "weeknight dinner", "easy chicken", "healthy dinner", "fast recipes"]
 description: "Struggling to cook on busy weeknights? These 15-minute chicken breast recipes are fast, flavorful, and perfect for getting dinner on the table without the stress."
 featuredImage:
   url: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=900&auto=format&fit=crop&q=80"
@@ -140,4 +140,4 @@ You can also mix up your sauces ahead of time. The honey-garlic sauce and the Th
 
 Weeknight cooking doesn't have to be complicated. It doesn't even have to be creative every single night. Sometimes the best meal is the one that's on the table in 15 minutes, tastes great, and leaves you with enough energy to actually enjoy your evening.
 
-If you're looking for more ways to streamline your weekly cooking, check out our [meal prep guide](/p/ultimate-meal-prep-guide/) — it pairs perfectly with these quick chicken recipes.
+If you're looking for more ways to streamline your weekly cooking, check out our [meal prep guide](/p/ultimate-meal-prep-guide/) — it pairs perfectly with these quick dinner recipes. For a slower weekend project, our [homemade sourdough bread guide](/p/easy-homemade-sourdough-bread/) makes the perfect side for any of these chicken dishes. And if pasta is more your speed on busy nights, try our [one-pot pasta recipes](/p/one-pot-pasta-recipes/) for another quick dinner option.

@@ -29,7 +29,7 @@ My first sourdough loaf looked like a frisbee. Flat, dense, and about as appetiz
 
 Sourdough has this reputation for being fussy and complicated. And sure, if you dive into the deep end of baking forums, you'll find people debating hydration percentages and crumb structure like it's a doctoral thesis. But the actual process? Flour, water, salt, time. That's it. People have been making this bread for thousands of years without thermometers or kitchen scales.
 
-Here's how to make your first loaf — no experience required.
+Here's my beginner-friendly sourdough bread recipe — no experience required.
 
 ## First Things First: Your Sourdough Starter
 
@@ -119,9 +119,9 @@ Once you're baking regularly, your starter becomes part of the household. I keep
 
 If you're not baking for a while, your starter can survive weeks in the fridge without feeding. It might develop a dark liquid on top (called hooch) — that's just alcohol from the fermentation. Stir it back in or pour it off, feed the starter, and it'll bounce back within a day or two.
 
-Sourdough baking is one of those skills that rewards repetition. Your fifth loaf will be noticeably better than your first. Your twentieth will be something you're genuinely proud of. And somewhere along the way, the process stops feeling like a recipe you're following and starts feeling like something you just know how to do.
+Sourdough baking is one of those skills that rewards repetition. Your fifth loaf of homemade bread will be noticeably better than your first. Your twentieth will be something you're genuinely proud of. And somewhere along the way, the process stops feeling like a sourdough bread recipe you're following and starts feeling like something you just know how to do.
 
-If you're looking for ways to use up sourdough discard, try incorporating it into our [one-pot pasta recipes](/p/one-pot-pasta-recipes/) — a splash of tangy starter adds surprising depth to tomato-based sauces.
+If you're looking for ways to use up sourdough discard, try incorporating it into our [one-pot pasta recipes](/p/one-pot-pasta-recipes/) — a splash of tangy starter adds surprising depth to tomato-based sauces. Fresh sourdough also makes the perfect base for our [high-protein breakfast ideas](/p/high-protein-breakfast-ideas/) like cottage cheese toast, or serve it alongside [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/) for a satisfying weeknight meal.
 
 ![Sliced sourdough bread showing open crumb structure with irregular holes](https://images.unsplash.com/photo-1509440159596-0249088772ff?w=900&auto=format&fit=crop&q=80)
 *The open, irregular crumb of a well-fermented sourdough. Those holes mean the wild yeast did its job. Image credit: [Unsplash](https://unsplash.com)*

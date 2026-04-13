@@ -29,7 +29,7 @@ For years, my breakfast was a granola bar eaten in the car and a large coffee. B
 
 The science backs this up. [Research published in the American Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/18469287/) shows that protein is the most satiating macronutrient — it keeps you fuller longer than the same number of calories from carbs or fat. Aiming for 25-30 grams of protein at breakfast can make a real difference in how you feel (and what you eat) for the rest of the day.
 
-But here's the thing — high-protein breakfast doesn't have to mean six egg whites and a sad protein shake. These are ten breakfasts I actually look forward to eating.
+But here's the thing — a healthy breakfast doesn't have to mean six egg whites and a sad protein shake. These are ten high-protein breakfasts I actually look forward to eating.
 
 ## 1. The Five-Minute Egg Scramble
 
@@ -136,4 +136,4 @@ Start with whatever's easiest. For most people, that's the egg scramble or the G
 
 Your 10 AM self will thank you.
 
-For dinner ideas that pair well with a protein-packed morning, check out our [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/) — quick, high-protein, and perfect for rounding out your daily nutrition.
+For dinner ideas that pair well with a protein-packed morning, check out our [15-minute chicken breast recipes](/p/15-minute-chicken-breast-recipes/) — quick, high-protein, and perfect for rounding out your daily nutrition. And if you want to bake your own bread for that cottage cheese toast, our [homemade sourdough bread guide](/p/easy-homemade-sourdough-bread/) is a great weekend project.
