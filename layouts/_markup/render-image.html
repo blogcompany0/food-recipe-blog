@@ -1,0 +1,14 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $alt := .PlainText | safeHTML -}}
+{{- $isExternal := in (slice "https" "http") $url.Scheme -}}
+
+{{- if $isExternal -}}
+<img src="{{ .Destination }}" alt="{{ $alt }}" loading="lazy">
+{{- else -}}
+{{- $image := .Page.Resources.Get .Destination -}}
+{{- if $image -}}
+<img src="{{ $image.RelPermalink }}" alt="{{ $alt }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy">
+{{- else -}}
+<img src="{{ .Destination }}" alt="{{ $alt }}" loading="lazy">
+{{- end -}}
+{{- end -}}
