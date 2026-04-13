@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&auto=format&fit=crop&q=80"
   alt: "Colorful sheet pan dinner with roasted chicken and vegetables fresh from the oven"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Maillard Reaction and Roasting"
     url: "https://www.seriouseats.com/what-is-maillard-reaction-cooking-science"

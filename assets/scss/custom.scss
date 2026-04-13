@@ -1,0 +1,122 @@
+/* Flavor & Fork - Warm Kitchen Theme */
+:root {
+  --body-background: #FFFBF5;
+  --accent-color: #C2410C;
+  --accent-color-darker: #9A3412;
+  --accent-color-text: #fff;
+  --body-text-color: #78716C;
+  --card-background: #fff;
+  --card-text-color-main: #292524;
+  --card-text-color-secondary: #78716C;
+  --card-text-color-tertiary: #A8A29E;
+
+  &[data-scheme="dark"] {
+    --body-background: #1C1410;
+    --accent-color: #EA580C;
+    --accent-color-darker: #C2410C;
+    --accent-color-text: #fff;
+    --body-text-color: rgba(255, 255, 255, 0.7);
+    --card-background: #2A1F1A;
+    --card-text-color-main: rgba(255, 255, 255, 0.9);
+    --card-text-color-secondary: rgba(255, 255, 255, 0.7);
+    --card-text-color-tertiary: rgba(255, 255, 255, 0.5);
+  }
+}
+
+/* Typography - Playfair Display for headings, Source Sans 3 for body */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap');
+
+:root {
+  --base-font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+h1, h2, h3, h4, .article-title {
+  font-family: "Playfair Display", Georgia, serif !important;
+  font-weight: 700;
+}
+
+/* Sidebar accent */
+.sidebar .site-name {
+  font-family: "Playfair Display", Georgia, serif;
+  color: #C2410C;
+}
+
+.sidebar .site-description {
+  color: #78716C;
+}
+
+/* Tag badges - Fresh Green accent */
+.article-tags a,
+.tag-cloud a {
+  background: #F0FDF4;
+  color: #65A30D;
+  border: 1px solid #BBF7D0;
+}
+
+.article-tags a:hover,
+.tag-cloud a:hover {
+  background: #65A30D;
+  color: #fff;
+}
+
+[data-scheme="dark"] .article-tags a,
+[data-scheme="dark"] .tag-cloud a {
+  background: #1A2E1A;
+  color: #86EFAC;
+  border-color: #2D5A2D;
+}
+
+/* Category badges */
+.article-category a {
+  color: #C2410C;
+}
+
+.article-category a:hover {
+  color: #EA580C;
+}
+
+/* Links */
+.article-content a {
+  color: #C2410C;
+  text-decoration-color: #FDBA74;
+}
+
+.article-content a:hover {
+  color: #EA580C;
+}
+
+/* Card hover effect */
+.article-list--tile article {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.article-list--tile article:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(194, 65, 12, 0.1);
+}
+
+/* Widget headers */
+.widget--toc .widget-title,
+.widget--search .widget-title,
+.widget--archives .widget-title,
+.widget--categories .widget-title,
+.widget--tag-cloud .widget-title {
+  color: #C2410C;
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+/* Pagination */
+.pagination .page-link {
+  color: #C2410C;
+}
+
+.pagination .page-link:hover,
+.pagination .page-link.active {
+  background: #C2410C;
+  color: #fff;
+}
+
+/* Scrollbar accent */
+::-webkit-scrollbar-thumb {
+  background: #C2410C;
+}

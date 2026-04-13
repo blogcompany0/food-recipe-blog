@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=900&auto=format&fit=crop&q=80"
   alt: "Mason jar filled with overnight oats topped with fresh berries and granola"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1517673400267-0251440c45dc?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Whole Grains and Health"
     url: "https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/whole-grains/"

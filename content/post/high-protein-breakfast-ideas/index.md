@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=900&auto=format&fit=crop&q=80"
   alt: "High-protein breakfast spread with eggs, avocado toast, and fresh fruit"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Dietary Reference Intakes for Protein"
     url: "https://www.ncbi.nlm.nih.gov/books/NBK56068/"

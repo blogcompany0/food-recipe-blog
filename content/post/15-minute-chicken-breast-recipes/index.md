@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=900&auto=format&fit=crop&q=80"
   alt: "Golden pan-seared chicken breast with herbs on a white plate"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Safe Minimum Internal Temperature Chart"
     url: "https://www.usda.gov/media/blog/2011/05/25/cooking-meat-check-new-recommended-temperatures"

@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1502741224143-90386d7f8c82?w=900&auto=format&fit=crop&q=80"
   alt: "Colorful healthy smoothies in glasses with fresh fruit and greens"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1502741224143-90386d7f8c82?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Dietary Guidelines for Americans: Fruits and Vegetables"
     url: "https://www.dietaryguidelines.gov/resources/2020-2025-dietary-guidelines-online-materials"

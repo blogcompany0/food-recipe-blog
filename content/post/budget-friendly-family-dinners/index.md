@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1547592180-85f173990554?w=900&auto=format&fit=crop&q=80"
   alt: "Family dinner table with affordable homemade pasta and salad"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1547592180-85f173990554?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "USDA Food Plans: Cost of Food Reports"
     url: "https://www.fns.usda.gov/research/cnpp/usda-food-plans/cost-food-monthly-reports"

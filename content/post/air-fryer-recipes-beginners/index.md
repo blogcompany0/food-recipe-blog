@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=900&auto=format&fit=crop&q=80"
   alt: "Crispy golden air fryer chicken wings on a plate with dipping sauce"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "How Air Fryers Work"
     url: "https://www.seriouseats.com/how-air-fryers-work"

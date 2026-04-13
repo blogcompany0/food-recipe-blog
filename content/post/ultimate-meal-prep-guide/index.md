@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1544025162-d76694265947?w=900&auto=format&fit=crop&q=80"
   alt: "Colorful meal prep containers filled with grains, vegetables, and protein"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1544025162-d76694265947?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Food Safety: Refrigeration and Food Safety"
     url: "https://www.fda.gov/food/people-risk-foodborne-illness/refrigerator-food-storage"

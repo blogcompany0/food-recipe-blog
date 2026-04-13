@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=900&auto=format&fit=crop&q=80"
   alt: "Bowl of hearty slow cooker chili topped with cheese and sour cream"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "Slow Cooker Food Safety"
     url: "https://www.usda.gov/media/blog/2011/12/14/slow-cookers-and-food-safety"

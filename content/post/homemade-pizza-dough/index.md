@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=900&auto=format&fit=crop&q=80"
   alt: "Homemade pizza with bubbly golden crust fresh from the oven"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Pizza Dough"
     url: "https://www.seriouseats.com/the-pizza-lab-how-to-make-great-new-york-style-pizza"

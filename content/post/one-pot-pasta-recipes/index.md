@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=900&auto=format&fit=crop&q=80"
   alt: "Creamy one-pot pasta with tomatoes and fresh basil in a large pot"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Cooking Pasta"
     url: "https://www.seriouseats.com/the-right-way-to-sauce-pasta"

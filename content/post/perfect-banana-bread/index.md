@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=900&auto=format&fit=crop&q=80"
   alt: "Sliced banana bread loaf with golden crust on a wooden cutting board"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Baking: Leavening Agents"
     url: "https://www.kingarthurbaking.com/blog/2016/10/03/leavening-agents"

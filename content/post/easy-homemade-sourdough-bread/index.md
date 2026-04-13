@@ -10,6 +10,7 @@ featuredImage:
   url: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=900&auto=format&fit=crop&q=80"
   alt: "Freshly baked sourdough bread loaf with golden crust on a cooling rack"
   credit: "Unsplash"
+image: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=900&auto=format&fit=crop&q=80"
 references:
   - title: "The Science of Sourdough Starters"
     url: "https://www.kingarthurbaking.com/blog/2020/04/07/the-science-behind-sourdough-starters"
