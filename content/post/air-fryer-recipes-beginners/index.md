@@ -40,7 +40,7 @@ Whether you're a complete air fryer beginner or just looking for new air fryer r
 
 **Shake the basket halfway through.** For anything small — fries, vegetables, chicken pieces — give the basket a shake or flip the food at the halfway mark. This ensures even browning on all sides.
 
-![Air fryer basket with food arranged in a single layer for even cooking](https://images.unsplash.com/photo-1585325701165-351af679e400?w=900&auto=format&fit=crop&q=80)
+![Air fryer basket with food arranged in a single layer for even cooking](https://images.unsplash.com/photo-1562967914-608f82629710?w=900&auto=format&fit=crop&q=80)
 *Single layer, space between pieces. That's the golden rule of air frying. Image credit: [Unsplash](https://unsplash.com)*
 
 ## The Recipes

@@ -7,7 +7,7 @@ categories: ["Baking", "Bread"]
 tags: ["sourdough bread recipe", "homemade bread", "sourdough starter", "beginner baking", "artisan bread"]
 description: "Think sourdough is too hard for beginners? This step-by-step guide walks you through making your first loaf — from building a starter to pulling a crusty, tangy bread out of the oven."
 featuredImage:
-  url: "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=900&auto=format&fit=crop&q=80"
+  url: "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=900&auto=format&fit=crop&q=80"
   alt: "Freshly baked sourdough bread loaf with golden crust on a cooling rack"
   credit: "Unsplash"
 references:
@@ -43,7 +43,7 @@ Day 2-6: Every 24 hours, discard half the mixture and feed it with 50g all-purpo
 
 By day 5 or 6, you should see consistent bubbling and a pleasant sour smell. The mixture should roughly double in size within 4-8 hours of feeding. That's when you know it's ready.
 
-![Bubbly active sourdough starter in a glass jar showing fermentation](https://images.unsplash.com/photo-1603379016822-e6d5e2770ece?w=900&auto=format&fit=crop&q=80)
+![Bubbly active sourdough starter in a glass jar showing fermentation](https://images.unsplash.com/photo-1590779033100-9f60a05a013d?w=900&auto=format&fit=crop&q=80)
 *A healthy, active starter full of bubbles. The rubber band marks where it was after feeding — you can see how much it's risen. Image credit: [Unsplash](https://unsplash.com)*
 
 A few things that tripped me up early on:
@@ -82,7 +82,7 @@ These folds build strength in the dough without kneading. After 3-4 sets, you'll
 
 After the folds, leave the dough alone. Depending on your kitchen temperature, bulk fermentation takes 4-8 hours total. You're looking for the dough to increase in volume by about 50-75% — not quite doubled. It should feel airy and jiggly when you shake the bowl, with visible bubbles on the surface and sides.
 
-![Sourdough dough in a bowl showing bubbles and rise during bulk fermentation](https://images.unsplash.com/photo-1590137876181-2a5a7e340de2?w=900&auto=format&fit=crop&q=80)
+![Sourdough dough in a bowl showing bubbles and rise during bulk fermentation](https://images.unsplash.com/photo-1574226516831-e1dff420e562?w=900&auto=format&fit=crop&q=80)
 *Dough after bulk fermentation — notice the bubbles and domed surface. It should jiggle like a water balloon when you nudge the bowl. Image credit: [Unsplash](https://unsplash.com)*
 
 ### Step 3: Shape and Cold Proof (Overnight)

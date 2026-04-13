@@ -7,7 +7,7 @@ categories: ["Baking", "Breakfast"]
 tags: ["banana bread", "baking recipes", "easy baking", "banana recipes", "comfort food", "best banana bread", "banana bread recipe"]
 description: "Banana bread seems simple, but getting it perfect — moist, tender, with deep banana flavor — takes a few tricks. Here's the recipe I've spent years perfecting, plus the science behind why it works."
 featuredImage:
-  url: "https://images.unsplash.com/photo-1605090930601-29fa89351eb1?w=900&auto=format&fit=crop&q=80"
+  url: "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=900&auto=format&fit=crop&q=80"
   alt: "Sliced banana bread loaf with golden crust on a wooden cutting board"
   credit: "Unsplash"
 references:
@@ -133,5 +133,5 @@ Good banana bread shouldn't be complicated. It's a mixing bowl, a loaf pan, and 
 
 If you're getting into baking, our [sourdough bread guide](/p/easy-homemade-sourdough-bread/) is a great next challenge. And for a protein-packed way to enjoy banana bread for breakfast, pair a slice with one of our [high-protein breakfast ideas](/p/high-protein-breakfast-ideas/). This banana bread recipe also pairs beautifully with a [homemade pizza dough](/p/homemade-pizza-dough/) weekend — bake the bread Saturday, make pizza Sunday. And if you're cooking on a budget, our [budget-friendly family dinners](/p/budget-friendly-family-dinners/) prove that great food doesn't have to be expensive.
 
-![Slice of moist banana bread with visible banana pieces and golden crumb texture](https://images.unsplash.com/photo-1584776252987-46add8cdbe8e?w=900&auto=format&fit=crop&q=80)
+![Slice of moist banana bread with visible banana pieces and golden crumb texture](https://images.unsplash.com/photo-1558401391-7899b4bd5bbf?w=900&auto=format&fit=crop&q=80)
 *Moist, tender, deeply banana-flavored. That's the goal. Image credit: [Unsplash](https://unsplash.com)*

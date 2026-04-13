@@ -129,7 +129,7 @@ Serve over jasmine rice with a fried egg on top. That runny yolk mixing into the
 
 **Season before, not after.** Salt needs time to penetrate the meat. Even five minutes of seasoning before cooking makes a noticeable difference compared to salting at the table.
 
-![Instant-read meat thermometer inserted into a chicken breast showing safe temperature](https://images.unsplash.com/photo-1625937286930-3c5bc0068db0?w=900&auto=format&fit=crop&q=80)
+![Instant-read meat thermometer inserted into a chicken breast showing safe temperature](https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=900&auto=format&fit=crop&q=80)
 *An instant-read thermometer takes the guesswork out of chicken. Image credit: [Unsplash](https://unsplash.com)*
 
 ## Making It Work for Your Week
