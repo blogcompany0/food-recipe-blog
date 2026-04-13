@@ -11,8 +11,8 @@ featuredImage:
   alt: "Family dinner table with affordable homemade pasta and salad"
   credit: "Unsplash"
 references:
-  - title: "USDA Cost of Food Reports"
-    url: "https://www.fda.gov/food/food-labeling-nutrition"
+  - title: "USDA Food Plans: Cost of Food Reports"
+    url: "https://www.fns.usda.gov/research/cnpp/usda-food-plans/cost-food-monthly-reports"
     source: "USDA"
   - title: "Beans and Legumes: Nutrition Overview"
     url: "https://www.hsph.harvard.edu/nutritionsource/legumes-pulses/"

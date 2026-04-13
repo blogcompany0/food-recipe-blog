@@ -104,7 +104,7 @@ Air fry at 370°F for 8 minutes. The peppers soften and sweeten, the cheese fill
 
 ### 10. Tofu Nuggets
 
-Even if you think you don't like tofu, try this. Press extra-firm tofu, cut into cubes, and toss with soy sauce, sesame oil, garlic powder, and cornstarch. The cornstarch creates an unbelievably crispy shell.
+Even if you think you don't like tofu, try this. Press extra-firm tofu, cut into cubes, and toss with soy sauce, sesame oil, garlic powder, and cornstarch. The cornstarch creates a seriously crispy shell.
 
 Air fry at 400°F for 15 minutes, shaking halfway. The outside gets golden and crunchy while the inside stays soft and creamy. Dip in sweet chili sauce or peanut sauce. My meat-eating friends request these.
 
